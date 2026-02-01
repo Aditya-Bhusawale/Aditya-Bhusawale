@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Gangadhar Bhusawale</h1>
+<h1 align="center">Hi 👋, I'm Aditya Bhusawale</h1>
 <h3 align="center">Full Stack Developer • DSA Enthusiast • Computer Engineering Student</h3>
 
 <p align="center">
