@@ -2,19 +2,20 @@
 <h3 align="center">Full Stack Developer • DSA Enthusiast • Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;DSA+Problem+Solver;Backend+%26+System+Design+Learner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;DSA+Problem+Solver;Backend+System+Design+Learner;Building+Real+World+Projects" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya-Bhusawale&label=Profile%20Views&color=22D3EE&style=flat" />
 </p>
 
+<img align="left" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-I am a **Computer Engineering student** with a strong interest in **full stack web development** and **backend systems**. I enjoy solving **data structures and algorithm problems** and applying my problem-solving skills to build **real-world applications**. I like working on scalable projects, learning new technologies, and improving my understanding of **system design and software fundamentals**. Currently, I am focused on strengthening my backend development skills while continuously practicing DSA.
+I am a **Computer Engineering student** with a strong interest in **full stack web development** and **backend systems**. I enjoy solving **Data Structures and Algorithms problems** and applying those concepts to build **real-world applications**. I like working on scalable projects, learning new technologies, and strengthening my understanding of **system design and core computer science fundamentals**. Currently, I am focused on backend development while consistently practicing DSA.
 
 ---
 
@@ -41,19 +42,20 @@ I am a **Computer Engineering student** with a strong interest in **full stack w
 
 ---
 
-## 🚀 Projects
-- 🔹 **Local Service Provider Platform**  
-  👉 https://github.com/Aditya-Bhusawale/local-service-provider  
+## 📌 Featured Projects
 
-- 🔹 **Email Spam Detection System**  
-  👉 https://github.com/Aditya-Bhusawale/email-spam-detection  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Bhusawale&repo=local-service-provider&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Bhusawale&repo=email-spam-detection&theme=tokyonight"/>
+</p>
 
-- 🔹 **DSA Practice Platform**  
-  👉 https://github.com/Aditya-Bhusawale/DSA_Ladder  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Bhusawale&repo=DSA_Ladder&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Bhusawale&show_icons=true&theme=tokyonight" height="165"/>
@@ -61,8 +63,22 @@ I am a **Computer Engineering student** with a strong interest in **full stack w
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aditya-Bhusawale&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Aditya-Bhusawale&theme=tokyonight"/>
 </p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Aditya-Bhusawale/Aditya-Bhusawale/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 📄 Resume
+📌 **View Resume:**  
+👉 https://YOUR_RESUME_LINK_HERE
 
 ---
 
