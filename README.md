@@ -5,6 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;DSA+Problem+Solver;Building+Real+World+Projects" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Bhusawale&show_icons=true&theme=tokyonight"/>
+</p>
 
 
 ---
