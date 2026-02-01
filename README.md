@@ -1,12 +1,12 @@
-<h1 align="center">Hello 👋, I'm Aditya Gangadhar Bhusawale</h1>
-<h3 align="center">Coder • Full Stack Web Developer • DSA Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Aditya Gangadhar Bhusawale</h1>
+<h3 align="center">Full Stack Web Developer • DSA Enthusiast • Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;DSA+Problem+Solver;Open+Source+Learner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;DSA+Problem+Solver;Computer+Engineering+Student;Building+Real+World+Projects" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya-Bhusawale&label=Profile%20Views&color=36BCF7&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Aditya-Bhusawale&label=Profile%20Views&color=0EA5E9&style=flat" />
 </p>
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
@@ -17,50 +17,61 @@
 - 🎓 Computer Engineering Student  
 - 💻 Full Stack Web Developer  
 - 🧠 Strong in Data Structures & Algorithms  
-- 🚀 Enjoy solving real-world problems using code  
-- 🌱 Currently learning backend & system design  
+- 🚀 Love solving real-world problems  
+- 🌱 Currently learning Backend & System Design  
 
 ---
 
-## 🧑‍💻 Technical Skills
+## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,sql,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode&perline=7" />
 </p>
 
-📌 **Libraries & Tools**  
-Pandas • NumPy • Matplotlib • Scikit-learn  
+### 📌 Libraries & Tools
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Scikit-learn  
 
-📘 **Core CS Concepts**  
-DSA • OOP • DBMS • Operating Systems • Computer Networks  
+### 📘 Core Computer Science
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- DBMS  
+- Operating Systems  
+- Computer Networks  
 
 ---
 
 ## 🚀 Projects
-- 🔹 **Local Service Provider Platform**  
-  👉 https://github.com/Aditya-Bhusawale/local-service-provider  
+🔹 **Local Service Provider Platform**  
+👉 https://github.com/Aditya-Bhusawale/local-service-provider  
 
-- 🔹 **Email Spam Detection System**  
-  👉 https://github.com/Aditya-Bhusawale/email-spam-detection  
+🔹 **Email Spam Detection System**  
+👉 https://github.com/Aditya-Bhusawale/email-spam-detection  
 
-- 🔹 **DSA Practice Platform**  
-  👉 https://github.com/Aditya-Bhusawale/DSA_Ladder  
+🔹 **DSA Practice Platform**  
+👉 https://github.com/Aditya-Bhusawale/DSA_Ladder  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Bhusawale&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Bhusawale&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhusawale&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aditya-Bhusawale&theme=tokyonight" />
+</p>
 
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Bhusawale&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Bhusawale&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -76,9 +87,8 @@ DSA • OOP • DBMS • Operating Systems • Computer Networks
   </a>
 </p>
 
-
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
+  ⭐ Thank you for visiting my GitHub profile!
 </p>
