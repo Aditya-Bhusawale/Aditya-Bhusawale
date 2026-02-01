@@ -1,57 +1,42 @@
-# Hello  I am Aditya Bhusawale, A Coder and Web Developer
-
- Full Stack Developer  
- Love solving DSA and real-world problems
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Problem+Solver;Web+Developer;Open+Source+Learner" />
-</p>
-
-# Hello 👋 I am Aditya Gangadhar Bhusawale
+<h1 align="center">Hello 👋, I'm Aditya Gangadhar Bhusawale</h1>
+<h3 align="center">A Coder | Full Stack Web Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+Developer;DSA+Problem+Solver;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Full+Stack+Developer;DSA+Problem+Solver;Open+Source+Learner" />
 </p>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 Computer Engineering Student  
-- 💻 Passionate about Web Development & Backend Systems  
-- 🧠 Strong in Data Structures and Algorithms  
-- 🚀 Love building real-world projects  
-- 🌱 Currently learning advanced backend & system design  
+- 💻 Interested in Web Development & Backend Systems  
+- 🧠 Strong foundation in Data Structures and Algorithms  
+- 🚀 Love solving real-world problems using code  
+- 🌱 Currently learning advanced backend and system design  
 
 ---
 
 ## 🧑‍💻 Technical Skills
 
 ### 🔹 Programming Languages
-![Skills](https://skillicons.dev/icons?i=cpp,python,js,sql)
-
----
+![Skills](https://skillicons.dev/icons?i=cpp,python,js,sql&perline=6)
 
 ### 🔹 Web & Backend Technologies
-![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,express)
-
----
+![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,express&perline=6)
 
 ### 🔹 Databases
 ![Skills](https://skillicons.dev/icons?i=mongodb,mysql)
 
----
-
 ### 🔹 Tools & Libraries
 ![Skills](https://skillicons.dev/icons?i=git,github,vscode)
 
-📌 Data Libraries  
+📌 **Data Libraries**
 - Pandas  
 - NumPy  
 - Matplotlib  
 - Scikit-learn  
-
----
 
 ### 🔹 Core Computer Science
 - Data Structures and Algorithms  
@@ -63,12 +48,14 @@
 ---
 
 ## 🚀 Projects
-- 🔹 **Local Service Provider Platform** – Full Stack Web Application  
-- 🔹 **Email Spam Detection System** – Machine Learning Project  
-- 🔹 **DSA Practice Platform** – Online Coding Practice Website  
-- 🔹 **Timetable Generator** – Constraint-based Scheduling System  
+- 🔹 **Local Service Provider Platform**  
+  👉 https://github.com/Aditya-Bhusawale/local-service-provider  
 
-👉 Check my repositories for complete project code.
+- 🔹 **Email Spam Detection System**  
+  👉 https://github.com/Aditya-Bhusawale/email-spam-detection  
+
+- 🔹 **DSA Practice Platform**  
+  👉 https://github.com/Aditya-Bhusawale/DSA_Ladder  
 
 ---
 
@@ -82,10 +69,11 @@
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN-ID  
-- 🧠 LeetCode: https://leetcode.com/YOUR-ID  
-- 🌐 Portfolio: https://YOUR-PORTFOLIO-LINK  
+- 💼 LinkedIn: https://www.linkedin.com/in/aditya-bhusawale-02721b30b/  
+- 🧠 LeetCode: https://leetcode.com/u/bhusawaleadi75/
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile!*  
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
