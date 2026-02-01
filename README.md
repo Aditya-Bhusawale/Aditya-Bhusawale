@@ -5,3 +5,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Problem+Solver;Web+Developer;Open+Source+Learner" />
 </p>
+## 🛠 Tech Stack
+
+### Languages
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,python)
+
+### Frontend
+![Skills](https://skillicons.dev/icons?i=html,css,js,react)
+
+### Backend
+![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)
+
+### Tools
+![Skills](https://skillicons.dev/icons?i=git,github,vscode)
