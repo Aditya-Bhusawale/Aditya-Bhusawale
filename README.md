@@ -2,23 +2,23 @@
 <h3 align="center">Coder • Full Stack Web Developer • DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Full+Stack+Developer;DSA+Problem+Solver;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;DSA+Problem+Solver;Open+Source+Learner;Building+Real+World+Projects" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya-Bhusawale&label=Profile%20Views&color=36BCF7&style=flat" />
 </p>
 
-<img align="right" width="270" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 Computer Engineering Student  
-- 💻 Passionate about Web Development & Backend Systems  
-- 🧠 Strong foundation in Data Structures and Algorithms  
-- 🚀 Love solving real-world problems using code  
-- 🌱 Currently learning advanced backend & system design  
+- 💻 Full Stack Web Developer  
+- 🧠 Strong in Data Structures & Algorithms  
+- 🚀 Enjoy solving real-world problems using code  
+- 🌱 Currently learning backend & system design  
 
 ---
 
@@ -28,11 +28,11 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,js,sql,html,css,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode&perline=7" />
 </p>
 
-📌 **Libraries & Tools**
-- Pandas • NumPy • Matplotlib • Scikit-learn  
+📌 **Libraries & Tools**  
+Pandas • NumPy • Matplotlib • Scikit-learn  
 
-📘 **Core CS Concepts**
-- DSA • OOP • DBMS • OS • CN  
+📘 **Core CS Concepts**  
+DSA • OOP • DBMS • Operating Systems • Computer Networks  
 
 ---
 
@@ -48,14 +48,27 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Bhusawale&theme=tokyonight" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Bhusawale&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhusawale&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Aditya-Bhusawale&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Bhusawale&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -70,6 +83,12 @@
     <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
 </p>
+
+---
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/Aditya-Bhusawale/Aditya-Bhusawale/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
