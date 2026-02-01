@@ -9,16 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=Aditya-Bhusawale&label=Profile%20Views&color=22D3EE&style=flat" />
 </p>
 
-<img align="right" width="270" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="left" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ---
 
 ## 🙋‍♂️ About Me
-- 🎓 Computer Engineering Student  
-- 💻 Full Stack Web Developer  
-- 🧠 Strong in Data Structures & Algorithms  
-- 🚀 Love building real-world scalable projects  
-- 🌱 Currently learning Backend & System Design  
+
+I am a **Computer Engineering student** with a strong interest in **full stack web development** and **backend systems**. I enjoy solving **data structures and algorithm problems** and applying my problem-solving skills to build **real-world applications**. I like working on scalable projects, learning new technologies, and improving my understanding of **system design and software fundamentals**. Currently, I am focused on strengthening my backend development skills while continuously practicing DSA.
 
 ---
 
@@ -31,15 +28,16 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/EJS-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 </p>
 
 ---
@@ -65,18 +63,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aditya-Bhusawale&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Bhusawale&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Bhusawale&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
