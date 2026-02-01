@@ -2,14 +2,10 @@
 <h3 align="center">Full Stack Developer • DSA Enthusiast • Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;DSA+Problem+Solver;Backend+%26+System+Design+Learner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;DSA+Problem+Solver;Building+Real+World+Projects" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya-Bhusawale&label=Profile%20Views&color=22D3EE&style=flat" />
-</p>
 
-<img align="left" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ---
 
@@ -57,13 +53,17 @@ I am a **Computer Engineering student** with a strong interest in **full stack w
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Bhusawale&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhusawale&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Bhusawale&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhusawale&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aditya-Bhusawale&theme=tokyonight"/>
 </p>
+
 
 
 ---
