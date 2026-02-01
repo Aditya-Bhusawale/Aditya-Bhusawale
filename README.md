@@ -54,21 +54,13 @@ DSA • OOP • DBMS • Operating Systems • Computer Networks
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Bhusawale&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Bhusawale&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhusawale&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aditya-Bhusawale&theme=tokyonight" />
-</p>
 
 ---
 
 ## 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Bhusawale&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Bhusawale&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -84,11 +76,6 @@ DSA • OOP • DBMS • Operating Systems • Computer Networks
   </a>
 </p>
 
----
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/Aditya-Bhusawale/Aditya-Bhusawale/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
