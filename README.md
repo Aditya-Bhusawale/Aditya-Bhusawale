@@ -57,13 +57,14 @@ I am a **Computer Engineering student** with a strong interest in **full stack w
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Bhusawale&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhusawale&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Bhusawale&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhusawale&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aditya-Bhusawale&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Aditya-Bhusawale&theme=tokyonight"/>
 </p>
+
 
 ---
 
