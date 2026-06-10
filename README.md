@@ -14,6 +14,9 @@
 I am a **Computer Engineering student** with a strong interest in **full stack web development** and **backend systems**. I enjoy solving **data structures and algorithm problems** and applying my problem-solving skills to build **real-world applications**. I like working on scalable projects, learning new technologies, and improving my understanding of **system design and software fundamentals**. Currently, I am focused on strengthening my backend development skills while continuously practicing DSA.
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya-Bhusawale&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 
 ## 🧩 Tech Stack
 
