@@ -43,9 +43,11 @@
 ----------
 
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak Stats
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Bhusawale&theme=tokyonight" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aditya-Bhusawale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ----------
 
