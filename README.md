@@ -54,7 +54,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center"> <a href="https://linkedin.com/in/aditya-bhusawale"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="mailto:bhusawaleaditya75@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a> <a href="https://github.com/Aditya-Bhusawale"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a> </p>
+<p align="center"> <a href="linkedin.com/in/aditya-bhusawale-02721b30b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="mailto:bhusawaleaditya75@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a> <a href="https://github.com/Aditya-Bhusawale"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a> </p>
 
 ----------
 
