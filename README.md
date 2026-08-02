@@ -1,5 +1,7 @@
 
-<!-- Banner --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aditya%20Bhusawale&fontSize=40&fontColor=ffffff"/> </p> <h1 align="center">Hi 👋, I'm Aditya Bhusawale</h1> <h3 align="center">🤖 AI/ML Enthusiast | Full Stack Developer | Data Engineering</h3> <!-- Typing Animation --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+%26+Deep+Learning;NLP+%26+Generative+AI;Backend+%26+API+Development;PySpark+%26+ETL+Pipelines;Always+Learning+🚀&center=true&width=600&height=50"> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aditya-Bhusawale&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
+<!-- Banner --> <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Aditya%20Bhusawale&fontSize=55&fontColor=ffffff&animation=twinkling&color=0:00F5FF,30:6C63FF,60:9D4EDD,100:FF006E"/>
+</p> <h1 align="center">Hi 👋, I'm Aditya Bhusawale</h1> <h3 align="center">🤖 AI/ML Enthusiast | Full Stack Developer | Data Engineering</h3> <!-- Typing Animation --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+%26+Deep+Learning;NLP+%26+Generative+AI;Backend+%26+API+Development;PySpark+%26+ETL+Pipelines;Always+Learning+🚀&center=true&width=600&height=50"> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aditya-Bhusawale&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 
 ----------
 
